@@ -28,4 +28,6 @@ Java - OOP and typed based language
 19.Implic and explicit conversion
 20. Primitive data types -
 20. Non-primitive datatypes String have class it is not primitive data types , Arrays,Classes, Interface, Collections.
-21.
+21.JVM have 2 type of things stack and heap memory , int will store in stack , String consturctor will store in heap.
+22.String literals goes to store in string pool.
+23.
