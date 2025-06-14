@@ -30,4 +30,8 @@ Java - OOP and typed based language
 20. Non-primitive datatypes String have class it is not primitive data types , Arrays,Classes, Interface, Collections.
 21.JVM have 2 type of things stack and heap memory , int will store in stack , String consturctor will store in heap.
 22.String literals goes to store in string pool.
-23.
+23.Conditionl , Data structure, Class
+24.OOPs
+25. Encapsulation - Practice of bundling data fields into method functions that operate on data into single unit (class);
+26.Java does not support multiple inheritance
+27.
