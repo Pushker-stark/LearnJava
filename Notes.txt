@@ -1,0 +1,31 @@
+Java - OOP and typed based language
+1. It is known for its write once and run anywhere. - can run anywhere where JVM is installed.
+2. JDK install == JAva install
+3. JDK = JRE+JVM
+4. JDK -
+    1. Helps in compiling - JavaC compiler converts .java codes to bytecode .class files.
+    2. Development tools like Debugger , documentation generator.
+    3. We can write JVM+JRE
+5. JRE -
+    1. we can run code
+    2. we can install it without JDK
+    3. JVM
+6. JRE -
+    1. JRE is actual place where java code runs.
+7. What means writing java and running code -
+    1. source code =.java file -> .class file compiled version in bytecode -> native code machine code =execution
+8. JDK source code ->JavaC compilation -> JVM execution
+9. Class is template blueprint - objects is instance of class
+10. Our JVM understand main method of class in java files.
+11. Static in method refer that it is part of class not object we can use it from class itself.
+12. ; important  to understand by java compiler to that line is ended here.
+13. Package in java is folder in projects and it named in reverse of domain like com.start
+14.Java is not completely the pure oop languages it have some primitive data where class is not there.
+15. Generally numbers entered in java by default identified as integer, so add 23243l l so it can identified as long.
+16.Going more than 7 didgits in float makes round of 121f.
+17. int class Integer, char class Character.
+18.Enter ,Tab, Space, backspace is also character
+19.Implic and explicit conversion
+20. Primitive data types -
+20. Non-primitive datatypes String have class it is not primitive data types , Arrays,Classes, Interface, Collections.
+21.
