@@ -25,7 +25,7 @@ Java - OOP and typed based language
 16.Going more than 7 didgits in float makes round of 121f.
 17. int class Integer, char class Character.
 18.Enter ,Tab, Space, backspace is also character
-19.Implic and explicit conversion
+19.Implicit and explicit conversion
 20. Primitive data types -
 20. Non-primitive datatypes String have class it is not primitive data types , Arrays,Classes, Interface, Collections.
 21.JVM have 2 type of things stack and heap memory , int will store in stack , String consturctor will store in heap.
@@ -33,5 +33,16 @@ Java - OOP and typed based language
 23.Conditionl , Data structure, Class
 24.OOPs
 25. Encapsulation - Practice of bundling data fields into method functions that operate on data into single unit (class);
-26.Java does not support multiple inheritance
-27.
+26.Java does not support multiple inheritance solution is interface.
+27.Polymorphism - multiple forms of same class methods.
+28. Compile time poymorphism - method overloading
+29. Runtime Polymorphism - method overriding.
+30.Abstraction - Internal details are hides to perform the thing smoothly.
+31.Abstraction + ovveriding extend
+32. Abstraction using Interfaces - interface is blueprint of class.
+33.In Interface we can ahieve multiple inheritance.
+34.Static method and default methods.
+35.Interface vs Abstraction - instance variable , constructor , multiple inheritance.
+36. Accesssss modifier.
+37.
+

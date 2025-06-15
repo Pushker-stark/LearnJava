@@ -1,7 +1,7 @@
 package com.pushker.learnjava.oops;
 
 public class Car {
-    private int speed;
+    public  int speed;
     private String color;
     public Car(String color){
         this.color=color;
