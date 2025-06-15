@@ -44,5 +44,24 @@ Java - OOP and typed based language
 34.Static method and default methods.
 35.Interface vs Abstraction - instance variable , constructor , multiple inheritance.
 36. Accesssss modifier.
-37.
+37. Mutithreading - mutiple threads of process.
+38. core is a individual process unit of CPU.
+39. program set of instruction, process progrsm under the eexecution, thread is smallest unit of process is threads.
+40. Multitasking - run multiple process running with context switch in one core.
+41. multi core allows parallel execution.
+42. Multithreading - abilty to execute multiple threads.
+43. Each task is handle with threads concurrently of the process to perform multitasking.
+44. Java support multi threading concurently to maximize cpu utilization.
+45. Java implements multithreading using java.lang package making easier to execute concurrent execution.
+46. In single core JVM handles multi threading by context-switching very fast create illusion of concurrency.
+47. For creating new thread in java either extend the thread class or implement runnable interface.
+48.Synchronize , Thread class
+49.Collection Framework - Set of Interfaces and classes that help in managing groups of objets.
+50. before jdk 1.2 independent class were there for data structures
+51. Earlier drawbacks - Inconsistency, lack of inter operatability, No common Interface.
+52.Iterable -> Collection -> List, set,Queue,Hashmap
+53.
+
+
+
 
